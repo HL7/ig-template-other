@@ -1,0 +1,23 @@
+{
+  "package-id" : "hl7.other.template",
+  "title" : "Base template for cross-product family IGs published by HL7",
+  "canonical" : "http://fhir.org/templates/hl7.fhir.template",
+  "introduction" : "This is the basic template for cross-product family implementation guides published by HL7",
+  "list" : [
+    {
+      "version" : "current",
+      "desc" : "Continuous Integration Build (latest in version control)",
+      "path" : "https://build.fhir.org/ig/HL7/ig-template-other",
+      "status" : "ci-build",
+      "current" : true
+    },
+    {
+      "version" : "0.1.0",
+      "desc" : "Initial release",
+      "path" : "http://fhir.org/templates/hl7.fhir.template/0.1.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2023-09-19"
+    }
+  ]
+}
